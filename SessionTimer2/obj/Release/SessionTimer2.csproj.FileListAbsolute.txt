@@ -1,0 +1,13 @@
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\bin\Release\timer_icon.ico
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\bin\Release\SessionTimer2.exe.config
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\bin\Release\SessionTimer2.exe
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\bin\Release\SessionTimer2.pdb
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\obj\Release\SessionTimer2.AboutBox1.resources
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\obj\Release\SessionTimer2.QuitAuthentication.resources
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\obj\Release\SessionTimer2.SessTimer.resources
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\obj\Release\SessionTimer2.Properties.Resources.resources
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\obj\Release\SessionTimer2.csproj.GenerateResource.Cache
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\obj\Release\SessionTimer2.exe
+c:\users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\obj\Release\SessionTimer2.pdb
+C:\Users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\obj\Release\SessionTimer2.csprojResolveAssemblyReference.cache
+C:\Users\dominic\documents\visual studio 2017\Projects\SessionTimer2\SessionTimer2\obj\Release\SessionTimer2.TwoMinuteWarning.resources
