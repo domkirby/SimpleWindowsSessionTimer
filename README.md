@@ -7,6 +7,5 @@ Language: C# / .NET (Windows Forms App)
 
 If you do not intend to modify the program before using it, please go to the [released version](https://github.com/domkirby/SimpleWindowsSessionTimer/releases/tag/v1) and follow those instructions.
 
-**Note: The app can be closed from the task manage
 
 *This is my first C# app so please pardon the sloppy code, learning as I go :*
